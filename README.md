@@ -3,7 +3,7 @@ Demo of the paper: Teach LLMs to Personalize – An Approach inspired by Writing
 
 ## The overview of the multistage multitask framework for personalized text generation
 ```mermaid
-graph LR
+graph TD
     A[Person]
     B[Personal context]
     C[Immediate context of the current document]
